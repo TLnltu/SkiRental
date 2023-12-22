@@ -1,0 +1,13 @@
+E:\it\it3\it3\bin\Debug\it3.exe.config
+E:\it\it3\it3\bin\Debug\it3.exe
+E:\it\it3\it3\bin\Debug\it3.pdb
+E:\it\it3\it3\obj\Debug\it3.csproj.AssemblyReference.cache
+E:\it\it3\it3\obj\Debug\it3.Properties.Resources.resources
+E:\it\it3\it3\obj\Debug\it3.csproj.GenerateResource.cache
+E:\it\it3\it3\obj\Debug\it3.csproj.CoreCompileInputs.cache
+E:\it\it3\it3\obj\Debug\it3.exe
+E:\it\it3\it3\obj\Debug\it3.pdb
+E:\it\it3\it3\obj\Debug\it3.Skiask.resources
+E:\it\it3\it3\obj\Debug\it3.menu.resources
+E:\it\it3\it3\obj\Debug\it3.equipmentask.resources
+E:\it\it3\it3\obj\Debug\it3.skipasses.resources
